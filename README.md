@@ -45,10 +45,11 @@
 ###   6.	Close the doors of the 3d printer.
 ###   7.	Open the file from the USB storage and select the Print option.
 
-## Output:
+## Output:![WhatsApp Image 2024-11-28 at 13 42 33_59b00498](https://github.com/user-attachments/assets/be7b1306-97d0-4870-a9ba-40f1ab512a03)
 
-### Name:
-### Register Number:
+
+### Name:Tharun B
+### Register Number:24002876
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
